@@ -8,3 +8,9 @@
 4. Route 53: Used to manage domains and DNS records. Example: Connecting www.myapp.com to an EC2 instance.
 
 5. Lightsail: Simple VPS hosting platform. Example: Hosting a WordPress blog.
+
+1) EC2 - EC2 is an AWS service that provides virtual servers in the cloud so you can run applications without needing your own physical machine.
+2) S3 - S3 is an AWS storage service where you can store files like photos, videos, documents, backups, and access them anytime over the internet. It’s secure, scalable, and you only pay for the storage you use.
+3) IAM -3 IAM is an AWS service that lets you control who can access your AWS resources and what actions they are allowed to do. It helps you manage users, groups, roles, and permissions securely.
+4) Route 53 - Route 53 is AWS’s DNS service. It helps you connect domain names (like mysite.com) to your servers or websites. It also handles domain registration and can route traffic based on speed, location, or health of servers.
+5) Lightsail - Lightsail is an AWS service that gives you easy-to-use virtual servers with fixed monthly pricing. It’s designed for beginners and small projects, making it simpler than EC2 to set up websites, apps, and databases.
